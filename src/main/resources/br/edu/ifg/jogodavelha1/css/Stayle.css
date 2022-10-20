@@ -1,0 +1,34 @@
+.byde {
+    -fx-background-color: #5C4099;
+}
+
+.boderCentro {
+    -fx-border-width: 5;
+    -fx-border-style: solid;
+    -fx-border-color: #926CE6;
+}
+.inferiorEsoperio{
+    -fx-border-width: 5;
+    -fx-border-style: solid;
+    -fx-border-color: transparent #926CE6;
+}
+.LeftRight{
+    -fx-border-width: 5;
+    -fx-border-style: solid;
+    -fx-border-color: #926CE6 transparent;
+}
+.bootm{
+    -fx-background-color: transparent;
+}
+.daddosJOgado{
+
+    -fx-background-color: #926CE6;
+    -fx-background-radius: 10;
+
+}
+.line{
+-fx-border-width: 0.5;
+
+
+
+}
